@@ -1,0 +1,196 @@
+{
+  "login": "y0r1c-k",
+  "level": 2,
+  "overall": "E",
+  "overallPercentile": 0.039974169137333336,
+  "layout": "default",
+  "class": {
+    "name": "Grand Magus",
+    "element": "Arcane",
+    "from": "Python"
+  },
+  "title": null,
+  "stats": [
+    {
+      "code": "STR",
+      "value": 5,
+      "rank": "E",
+      "percentile": 0.11379142115753826
+    },
+    {
+      "code": "AGI",
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
+    },
+    {
+      "code": "INT",
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
+    },
+    {
+      "code": "VIT",
+      "value": 2,
+      "rank": "E",
+      "percentile": 0.35265963279786033
+    },
+    {
+      "code": "LUK",
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
+    },
+    {
+      "code": "CHA",
+      "value": 0,
+      "rank": "E",
+      "percentile": 0
+    }
+  ],
+  "events": [],
+  "achievements": [
+    {
+      "id": "pull-shark",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "quickdraw",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "yolo",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "relentless",
+      "tier": 0,
+      "value": 5
+    },
+    {
+      "id": "unbroken",
+      "tier": 0,
+      "value": 1
+    },
+    {
+      "id": "night-owl",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "early-bird",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "weekend-warrior",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "gate-opener",
+      "tier": 0,
+      "value": 2
+    },
+    {
+      "id": "raider",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "flawless",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "healer",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "polyglot",
+      "tier": 0,
+      "value": 1
+    },
+    {
+      "id": "star-collector",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "beacon",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "guild-hopper",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "veteran",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "berserker",
+      "tier": 0,
+      "value": 5
+    },
+    {
+      "id": "diligent",
+      "tier": 0,
+      "value": 3
+    },
+    {
+      "id": "daily-grinder",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "perfect-week",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "quest-hunter",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "boss-slayer",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "escape-artist",
+      "tier": 0,
+      "value": 0
+    },
+    {
+      "id": "collector",
+      "tier": 0,
+      "value": 0
+    }
+  ],
+  "quests": {
+    "days": [
+      {
+        "date": "2026-10-08",
+        "cleared": 0,
+        "total": 3
+      }
+    ],
+    "perfectDays": 0,
+    "run": 0,
+    "bestRun": 0,
+    "questsDone": 0,
+    "bosses": [],
+    "escapes": 0,
+    "kinds": []
+  },
+  "syncedAt": "2026-10-09T04:38:52.032Z"
+}
