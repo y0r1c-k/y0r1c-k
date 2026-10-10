@@ -9,7 +9,7 @@
     "element": "Arcane",
     "from": "Python"
   },
-  "title": null,
+  "title": "The Collector",
   "stats": [
     {
       "code": "STR",
@@ -48,7 +48,15 @@
       "percentile": 0
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-10T20:33:31.134Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -148,17 +156,17 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 2
+      "value": 5
     },
     {
       "id": "boss-slayer",
@@ -172,12 +180,17 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-10",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-09",
         "cleared": 2,
@@ -189,16 +202,18 @@
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 2,
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 5,
     "bosses": [],
     "escapes": 1,
     "kinds": [
       "contribute",
-      "star"
+      "star",
+      "three",
+      "average"
     ]
   },
-  "syncedAt": "2026-10-09T21:38:42.721Z"
+  "syncedAt": "2026-10-10T20:33:31.134Z"
 }
